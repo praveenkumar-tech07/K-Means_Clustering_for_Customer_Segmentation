@@ -1,6 +1,4 @@
-# PRODIGY_ML_02
-
-## Task 2: K-Means Clustering for Customer Segmentation
+##  K-Means Clustering for Customer Segmentation
 
 This project uses K-Means clustering to group retail store customers based on:
 
@@ -32,4 +30,4 @@ This project uses K-Means clustering to group retail store customers based on:
 ### 👨‍💻 Internship Details
 - **Track:** Machine Learning
 - **Task Number:** 2
-- **Repository Name:** PRODIGY_ML_02
+- **Repository Name:** K-Means Clustering for Customer Segmentation
